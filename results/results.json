@@ -1,0 +1,1650 @@
+[
+    {
+        "id": "akt-akash-network",
+        "name": "Akash Network",
+        "symbol": "AKT",
+        "rank": 92,
+        "is_active": true,
+        "exchanges": {
+            "ascendex": {
+                "name": "AscendEX (BitMax)"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "cryptocom-exchange": {
+                "name": "Crypto.com Exchange"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "kraken": {
+                "name": "Kraken"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "quickswap": {
+                "name": "QuickSwap"
+            }
+        },
+        "market_cap": 906469978,
+        "volume": 8482609,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/akt-akash-network/logo.png",
+        "description": "Akash DeCloud is a faster, better, and lower cost cloud built for DeFi, decentralized projects, and high growth companies, providing unprecedented scale, flexibility, and price performance. 10x lower in cost, our serverless computing platform is compatible with all cloud providers and all applications that run on the cloud.",
+        "development_status": "",
+        "links": {
+            "explorer": null,
+            "facebook": [
+                "https://facebook.com/akashnw"
+            ],
+            "reddit": [
+                "https://www.reddit.com/r/akashnetwork"
+            ],
+            "source_code": [
+                "https://github.com/ovrclk"
+            ],
+            "website": [
+                "https://akash.network"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://facebook.com/akashnw",
+                "type": "facebook"
+            },
+            {
+                "url": "https://www.reddit.com/r/akashnetwork",
+                "type": "reddit"
+            },
+            {
+                "url": "https://github.com/ovrclk",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/AkashNW",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/akashnet_",
+                "type": "twitter"
+            },
+            {
+                "url": "https://akash.network",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-03-02T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "hex-hex",
+        "name": "HEX",
+        "symbol": "HEX",
+        "rank": 96,
+        "is_active": true,
+        "exchanges": {
+            "bilaxy": {
+                "name": "Bilaxy"
+            },
+            "bitget": {
+                "name": "Bitget"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "dexzbitz": {
+                "name": "Dexzbitz"
+            },
+            "kanga-exchange": {
+                "name": "Kanga"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "poloniex": {
+                "name": "Poloniex"
+            },
+            "uniswap": {
+                "name": "Uniswap V1"
+            },
+            "uniswap-v2": {
+                "name": "Uniswap V2"
+            },
+            "uniswap-v3": {
+                "name": "Uniswap V3"
+            },
+            "xt": {
+                "name": "XT"
+            },
+            "yobit": {
+                "name": "YoBit"
+            }
+        },
+        "market_cap": 815621131,
+        "volume": 1272079,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/hex-hex/logo.png",
+        "description": "HEX is an ERC20 token designed and launched by Richard Heart on 2 December 2019 on the Ethereum network. HEX is designed to be a store of value to replace the Certificate of Deposit as the blockchain counterpart of that financial product used in traditional financial markets. HEX is also designed to leverage off the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within the Ethereum network. HEX uses the Ethereum network for the transaction layer (sending and receiving HEX tokens, as well as interacting with the HEX smart contract), whilst the consensus code and staking mechanism is contained in the HEX smart contract.\r\n\r\nHEX allows a user to stake his or her HEX coins for a share of the new HEX coin issuance, or inflation, and contains features designed to incentivise behaviours that encourage price appreciation, and disincentivise behaviours that encourage harm to the price. The HEX smart contract penalises stakers for ending their stake early and rewards them for staking larger amounts of HEX for longer periods.\r\n\r\nHEX is distributed to Bitcoin holders by way of a snapshot of the Bitcoin UTXO set that occurred on 2 December 2019 at block height 606227. The distribution of HEX to Bitcoin holders is 10,000 HEX per 1 BTC. Bitcoin holders are able to claim HEX only during the first year of launch. During this period, HEX is also obtained in exchange for ETH through interacting with the HEX smart contract. At the end of the first year of launch, all HEX coins that were not claimed by Bitcoin holders are distributed to the rest of the HEX users who have stakes that are active. ",
+        "development_status": "Working product",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+            ],
+            "facebook": [
+                "https://www.facebook.com/HEXcrypto"
+            ],
+            "reddit": [
+                "https://www.reddit.com/r/HEXcrypto/"
+            ],
+            "source_code": [
+                "https://github.com/BitcoinHEX"
+            ],
+            "website": [
+                "https://hex.win/"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://bitcointalk.org/index.php?topic=4523610.0",
+                "type": "announcement"
+            },
+            {
+                "url": "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.facebook.com/HEXcrypto",
+                "type": "facebook"
+            },
+            {
+                "url": "https://www.reddit.com/r/HEXcrypto/",
+                "type": "reddit"
+            },
+            {
+                "url": "https://github.com/BitcoinHEX",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/HEXcrypto",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/HEXcrypto",
+                "type": "twitter"
+            },
+            {
+                "url": "https://hex.win/",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2019-12-14T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "msol-marinade-staked-sol",
+        "name": "Marinade Staked Sol",
+        "symbol": "MSOL",
+        "rank": 114,
+        "is_active": true,
+        "exchanges": {
+            "coinbase": {
+                "name": "Coinbase"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "kraken": {
+                "name": "Kraken"
+            },
+            "latoken": {
+                "name": "LATOKEN"
+            },
+            "raydium": {
+                "name": "Raydium"
+            },
+            "saber": {
+                "name": "Saber"
+            }
+        },
+        "market_cap": 756565876,
+        "volume": 124230,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/msol-marinade-staked-sol/logo.png",
+        "description": "Marinade.finance is a liquid staking protocol built on Solana. People stake their Solana tokens with Marinade using automatic staking strategies and receive \"staked SOL\" tokens they can use in the world of DeFi or to swap any time back to original SOL tokens to unstake.",
+        "development_status": "Working product",
+        "links": {
+            "explorer": [
+                "https://solanabeach.io/token/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/marinade-finance"
+            ],
+            "website": [
+                "https://marinade.finance/"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://discord.com/invite/6EtUf4Euu6",
+                "type": "chat"
+            },
+            {
+                "url": "https://solanabeach.io/token/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/marinade-finance",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/MarinadeFinance",
+                "type": "twitter"
+            },
+            {
+                "url": "https://marinade.finance/",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-11-16T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "frax-frax",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "rank": 119,
+        "is_active": true,
+        "exchanges": {
+            "curve-finance": {
+                "name": "Curve Finance"
+            },
+            "curve-finance-polygon-network": {
+                "name": "Curve Finance (Polygon)"
+            },
+            "equalizer": {
+                "name": "Equalizer"
+            },
+            "exmarkets": {
+                "name": "ExMarkets"
+            },
+            "fraxswap": {
+                "name": "Fraxswap"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "jubi": {
+                "name": "Jubi"
+            },
+            "kyberswap-arbitrum": {
+                "name": "KyberSwap (Arbitrum One)"
+            },
+            "kyberswap-ethereum": {
+                "name": "Kyberswap (Ethereum)"
+            },
+            "kyberswap-polygon-network": {
+                "name": "Kyberswap (Polygon)"
+            },
+            "pancakeswap-v2": {
+                "name": "PancakeSwap V2"
+            },
+            "poloniex": {
+                "name": "Poloniex"
+            },
+            "quickswap-v3": {
+                "name": "Quickswap V3"
+            },
+            "ramses-v2": {
+                "name": "Ramses V2"
+            },
+            "solidly": {
+                "name": "Solidly"
+            },
+            "stellaswap": {
+                "name": "StellaSwap"
+            },
+            "sushiswap": {
+                "name": "SushiSwap"
+            },
+            "trader-joe": {
+                "name": "Trader Joe"
+            },
+            "uniswap-arbitrum": {
+                "name": "Uniswap V3 (Arbitrum One)"
+            },
+            "uniswap-optimism": {
+                "name": "Uniswap V3 (Optimism)"
+            },
+            "uniswap-v2": {
+                "name": "Uniswap V2"
+            },
+            "uniswap-v3": {
+                "name": "Uniswap V3"
+            },
+            "velodrome": {
+                "name": "Velodrome Finance"
+            },
+            "velodrome-finance-v2": {
+                "name": "Velodrome Finance V2"
+            },
+            "zigzag": {
+                "name": "ZigZag"
+            }
+        },
+        "market_cap": 651431064,
+        "volume": 11211721,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/frax-frax/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e",
+                "https://ethplorer.io/address/0x853d955acef822db058eb8505911ed77f175b99e"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/fraxfinance/frax-solidity"
+            ],
+            "website": [
+                "https://frax.finance"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e",
+                "type": "explorer"
+            },
+            {
+                "url": "https://ethplorer.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/fraxfinance/frax-solidity",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/fraxfinance",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/fraxfinance",
+                "type": "twitter"
+            },
+            {
+                "url": "https://frax.finance",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-08-24T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "core-core-dao",
+        "name": "Core DAO",
+        "symbol": "CORE",
+        "rank": 129,
+        "is_active": true,
+        "exchanges": {
+            "biconomy": {
+                "name": "Biconomy"
+            },
+            "bitforex": {
+                "name": "BitForex"
+            },
+            "bitget": {
+                "name": "Bitget"
+            },
+            "bitmart": {
+                "name": "BitMart"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "bybit-spot": {
+                "name": "Bybit (Spot)"
+            },
+            "coinw": {
+                "name": "CoinW"
+            },
+            "deepcoin": {
+                "name": "Deepcoin"
+            },
+            "digifinex": {
+                "name": "DigiFinex"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "lbank": {
+                "name": "Lbank"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "okx": {
+                "name": "OKX"
+            },
+            "poloniex": {
+                "name": "Poloniex"
+            },
+            "xt": {
+                "name": "XT"
+            }
+        },
+        "market_cap": 663025240,
+        "volume": 33977600,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/core-core-dao/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://scan.coredao.org"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/coredao-org"
+            ],
+            "website": [
+                "https://coredao.org"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://scan.coredao.org",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/coredao-org",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/coredao_org",
+                "type": "twitter"
+            },
+            {
+                "url": "https://coredao.org",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2023-02-09T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "mhc-metahash",
+        "name": "#MetaHash",
+        "symbol": "MHC",
+        "rank": 134,
+        "is_active": true,
+        "exchanges": {
+            "bitforex": {
+                "name": "BitForex"
+            }
+        },
+        "market_cap": 656028742,
+        "volume": 91131,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/mhc-metahash/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://venus.mhscan.com/"
+            ],
+            "facebook": [
+                "https://www.facebook.com/MetaHash/"
+            ],
+            "reddit": null,
+            "source_code": [
+                "https://github.com/metahashorg"
+            ],
+            "website": [
+                "https://metahash.org/"
+            ],
+            "youtube": [
+                "https://www.youtube.com/watch?v=PJ0gZchXAOk"
+            ]
+        },
+        "links_extended": [
+            {
+                "url": "https://bitcointalk.org/index.php?topic=434258",
+                "type": "announcement"
+            },
+            {
+                "url": "https://bitcointalk.org/index.php?topic=4342587.0",
+                "type": "announcement"
+            },
+            {
+                "url": "https://t.me/metahash_ENG",
+                "type": "chat"
+            },
+            {
+                "url": "https://venus.mhscan.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.facebook.com/MetaHash/",
+                "type": "facebook"
+            },
+            {
+                "url": "https://medium.com/@themetahash",
+                "type": "message_board"
+            },
+            {
+                "url": "https://github.com/metahashorg",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/themetahash",
+                "type": "twitter"
+            },
+            {
+                "url": "https://metahash.org/",
+                "type": "website"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=PJ0gZchXAOk",
+                "type": "youtube"
+            }
+        ],
+        "first_data_at": "2019-02-21T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "kuji-kujira",
+        "name": "Kujira",
+        "symbol": "KUJI",
+        "rank": 135,
+        "is_active": true,
+        "exchanges": {
+            "camelot-v3": {
+                "name": "Camelot V3"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "uniswap-arbitrum": {
+                "name": "Uniswap V3 (Arbitrum One)"
+            }
+        },
+        "market_cap": 506812689,
+        "volume": 1430205,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/kuji-kujira/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://finder.terra.money/mainnet/address/terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/Team-Kujira"
+            ],
+            "website": [
+                "https://kujira.app"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://teamkujira.medium.com",
+                "type": "announcement"
+            },
+            {
+                "url": "https://finder.terra.money/mainnet/address/terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/Team-Kujira",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/TeamKujira",
+                "type": "twitter"
+            },
+            {
+                "url": "https://kujira.app",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2022-03-27T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "stsol-lido-staked-sol",
+        "name": "Lido Staked SOL",
+        "symbol": "STSOL",
+        "rank": 141,
+        "is_active": true,
+        "exchanges": {
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "raydium": {
+                "name": "Raydium"
+            },
+            "saber": {
+                "name": "Saber"
+            }
+        },
+        "market_cap": 506419010,
+        "volume": 41309,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/stsol-lido-staked-sol/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://solscan.io/token/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
+            ],
+            "facebook": null,
+            "reddit": [
+                "https://www.reddit.com/r/lidofinance"
+            ],
+            "source_code": [
+                "https://github.com/ChorusOne/solido"
+            ],
+            "website": [
+                "https://solana.lido.fi"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://blog.lido.fi",
+                "type": "announcement"
+            },
+            {
+                "url": "https://solscan.io/token/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.reddit.com/r/lidofinance",
+                "type": "reddit"
+            },
+            {
+                "url": "https://github.com/ChorusOne/solido",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/lidofinance",
+                "type": "twitter"
+            },
+            {
+                "url": "https://solana.lido.fi",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2022-01-30T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "rbn-ribbon-finance",
+        "name": "Ribbon Finance",
+        "symbol": "RBN",
+        "rank": 147,
+        "is_active": true,
+        "exchanges": {
+            "bitget": {
+                "name": "Bitget"
+            },
+            "btse": {
+                "name": "BTSE"
+            },
+            "coinbase": {
+                "name": "Coinbase"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "cryptocom-exchange": {
+                "name": "Crypto.com Exchange"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "latoken": {
+                "name": "LATOKEN"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "uniswap-v3": {
+                "name": "Uniswap V3"
+            }
+        },
+        "market_cap": 449239530,
+        "volume": 1435457,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/rbn-ribbon-finance/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+                "https://ethplorer.io/address/0x6123B0049F904d730dB3C36a31167D9d4121fA6B"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/ribbon-finance"
+            ],
+            "website": [
+                "https://www.ribbon.finance"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://ribbonfinance.medium.com",
+                "type": "announcement"
+            },
+            {
+                "url": "https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+                "type": "explorer"
+            },
+            {
+                "url": "https://ethplorer.io/address/0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/ribbon-finance",
+                "type": "source_code"
+            },
+            {
+                "url": "https://www.ribbon.finance",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-10-08T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "btg-bitcoin-gold",
+        "name": "Bitcoin Gold",
+        "symbol": "BTG",
+        "rank": 149,
+        "is_active": true,
+        "exchanges": {
+            "bequant": {
+                "name": "Bequant"
+            },
+            "bithumb": {
+                "name": "Bithumb"
+            },
+            "btcsquare": {
+                "name": "BTCsquare"
+            },
+            "bybit-spot": {
+                "name": "Bybit (Spot)"
+            },
+            "changelly-pro": {
+                "name": "Changelly PRO"
+            },
+            "coinone": {
+                "name": "Coinone"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "gleec-btc-exchange": {
+                "name": "Gleec BTC Exchange"
+            },
+            "graviex": {
+                "name": "Graviex"
+            },
+            "hitbtc": {
+                "name": "HitBTC"
+            },
+            "indodax": {
+                "name": "Indodax"
+            },
+            "latoken": {
+                "name": "LATOKEN"
+            },
+            "paybito": {
+                "name": "PayBito"
+            },
+            "probit-exchange": {
+                "name": "ProBit Exchange"
+            },
+            "xbts": {
+                "name": "XBTS"
+            },
+            "zonda": {
+                "name": "zondacrypto"
+            }
+        },
+        "market_cap": 471702509,
+        "volume": 1587209,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/btg-bitcoin-gold/logo.png",
+        "description": "Bitcoin Gold is a Hard Fork of Bitcoin, that allows you to mine Bitcoin Gold with GPU. BTG implements a new PoW algorithm, Equihash, that makes mining decentralized again with ASIC resistant algorithm.\r\n\r\nPremine: 100 000 BTG",
+        "development_status": "Working product",
+        "links": {
+            "explorer": [
+                "https://explorer.bitcoingold.org/insight/",
+                "https://btg.tokenview.com/",
+                "https://btgexp.com/",
+                "https://btgexplorer.com/",
+                "http://www.btgblocks.com/"
+            ],
+            "facebook": [
+                "https://www.facebook.com/bitcoingoldofficial/"
+            ],
+            "reddit": [
+                "https://www.reddit.com/r/BitcoinGoldHQ"
+            ],
+            "source_code": [
+                "https://github.com/BTCGPU/BTCGPU"
+            ],
+            "website": [
+                "https://bitcoingold.org/"
+            ],
+            "youtube": [
+                "https://www.youtube.com/watch?v=c-s3BbnZoJA",
+                "https://www.youtube.com/watch?v=OP67s_-iXRY"
+            ]
+        },
+        "links_extended": [
+            {
+                "url": "https://bitcointalk.org/index.php?topic=2284289.0",
+                "type": "announcement"
+            },
+            {
+                "url": "https://btcgpu.org/blog/",
+                "type": "blog"
+            },
+            {
+                "url": "https://discord.gg/HmVUU6S",
+                "type": "discord"
+            },
+            {
+                "url": "https://explorer.bitcoingold.org/insight/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://btg.tokenview.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://btgexp.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://btgexplorer.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "http://www.btgblocks.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.facebook.com/bitcoingoldofficial/",
+                "type": "facebook"
+            },
+            {
+                "url": "https://medium.com/@btcgpu",
+                "type": "medium"
+            },
+            {
+                "url": "https://forum.bitcoingold.org",
+                "type": "message_board"
+            },
+            {
+                "url": "https://www.reddit.com/r/BitcoinGoldHQ",
+                "type": "reddit"
+            },
+            {
+                "url": "https://join.slack.com/t/bitcoin-gold/shared_invite/enQtMjU2MDY5MDQyNjkzLTQyMzZhMTBkMDM4MmRhNTI3NzM4YjlmMzMyNDIwZmFkYjc3ZmFiOTQ4NTJjNDNlNGM0NDI4YTI3MzZmZTRmMzg",
+                "type": "slack"
+            },
+            {
+                "url": "https://github.com/BTCGPU/BTCGPU",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/BitcoinGoldHQ",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/bitcoingold",
+                "type": "twitter"
+            },
+            {
+                "url": "https://bitcoingold.org/electrumg/",
+                "type": "wallet"
+            },
+            {
+                "url": "https://bitcoingold.org/",
+                "type": "website"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=c-s3BbnZoJA",
+                "type": "youtube"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=OP67s_-iXRY",
+                "type": "youtube"
+            }
+        ],
+        "first_data_at": "2017-10-23T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "gt-gatechain-token",
+        "name": "Gatechain Token",
+        "symbol": "GT",
+        "rank": 151,
+        "is_active": true,
+        "exchanges": {
+            "bitfinex": {
+                "name": "Bitfinex"
+            },
+            "bitkub": {
+                "name": "Bitkub"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "latoken": {
+                "name": "LATOKEN"
+            },
+            "lbank": {
+                "name": "Lbank"
+            },
+            "pionex": {
+                "name": "Pionex"
+            }
+        },
+        "market_cap": 458789068,
+        "volume": 1125943,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/gt-gatechain-token/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
+                "https://ethplorer.io/address/0xe66747a101bff2dba3697199dcce5b743b454759"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/gatechain"
+            ],
+            "website": [
+                "https://gatechain.io"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
+                "type": "explorer"
+            },
+            {
+                "url": "https://ethplorer.io/address/0xe66747a101bff2dba3697199dcce5b743b454759",
+                "type": "explorer"
+            },
+            {
+                "url": "https://medium.com/@gatechain",
+                "type": "message_board"
+            },
+            {
+                "url": "https://github.com/gatechain",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/gatechain_io",
+                "type": "twitter"
+            },
+            {
+                "url": "https://gatechain.io",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2019-08-26T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "metis-metis-token",
+        "name": "Metis Token",
+        "symbol": "METIS",
+        "rank": 153,
+        "is_active": true,
+        "exchanges": {
+            "bitget": {
+                "name": "Bitget"
+            },
+            "bitmart": {
+                "name": "BitMart"
+            },
+            "coinbase": {
+                "name": "Coinbase"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "coinstore": {
+                "name": "Coinstore"
+            },
+            "cryptocom-exchange": {
+                "name": "Crypto.com Exchange"
+            },
+            "digifinex": {
+                "name": "DigiFinex"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "jubi": {
+                "name": "Jubi"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "latoken": {
+                "name": "LATOKEN"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "okx": {
+                "name": "OKX"
+            },
+            "pancakeswap-v2": {
+                "name": "PancakeSwap V2"
+            },
+            "pancakeswap-v3-bsc": {
+                "name": "Pancakeswap V3 (BSC)"
+            },
+            "poloniex": {
+                "name": "Poloniex"
+            },
+            "sushiswap": {
+                "name": "SushiSwap"
+            },
+            "uniswap-v2": {
+                "name": "Uniswap V2"
+            },
+            "uniswap-v3": {
+                "name": "Uniswap V3"
+            },
+            "xt": {
+                "name": "XT"
+            },
+            "zigzag": {
+                "name": "ZigZag"
+            }
+        },
+        "market_cap": 473672755,
+        "volume": 18821309,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/metis-metis-token/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+                "https://ethplorer.io/address/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/MetisProtocol"
+            ],
+            "website": [
+                "https://www.metis.io"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://metisdao.medium.com",
+                "type": "announcement"
+            },
+            {
+                "url": "https://projects.invisionapp.com/boards/P941VA2WATD",
+                "type": "announcement"
+            },
+            {
+                "url": "https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+                "type": "explorer"
+            },
+            {
+                "url": "https://ethplorer.io/address/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+                "type": "explorer"
+            },
+            {
+                "url": "https://github.com/MetisProtocol",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/MetisDAO",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/MetisDAO",
+                "type": "twitter"
+            },
+            {
+                "url": "https://www.metis.io",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-07-02T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "pokt-pocket-network",
+        "name": "Pocket Network",
+        "symbol": "POKT",
+        "rank": 168,
+        "is_active": true,
+        "exchanges": {
+            "bitget": {
+                "name": "Bitget"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "bybit-spot": {
+                "name": "Bybit (Spot)"
+            },
+            "bydfi-spot": {
+                "name": "BYDFi (Spot)"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "coinw": {
+                "name": "CoinW"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "xt": {
+                "name": "XT"
+            }
+        },
+        "market_cap": 435010523,
+        "volume": 4708391,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/pokt-pocket-network/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": null,
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/pokt-network"
+            ],
+            "website": [
+                "https://www.pokt.network",
+                "https://docs.pokt.network"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://github.com/pokt-network",
+                "type": "source_code"
+            },
+            {
+                "url": "https://www.pokt.network",
+                "type": "website"
+            },
+            {
+                "url": "https://docs.pokt.network",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2022-01-19T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "azero-aleph-zero",
+        "name": "Aleph Zero",
+        "symbol": "AZERO",
+        "rank": 174,
+        "is_active": true,
+        "exchanges": {
+            "bitget": {
+                "name": "Bitget"
+            },
+            "bitmart": {
+                "name": "BitMart"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "mycointainer": {
+                "name": "MyCointainer"
+            }
+        },
+        "market_cap": 355311425,
+        "volume": 4228472,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/azero-aleph-zero/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": [
+                "https://alephzero.subscan.io"
+            ],
+            "facebook": [
+                "https://www.facebook.com/AlephZeroFoundation"
+            ],
+            "reddit": null,
+            "source_code": [
+                "https://github.com/aleph-zero-foundation"
+            ],
+            "website": [
+                "https://alephzero.org"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://alephzero.org/blog",
+                "type": "announcement"
+            },
+            {
+                "url": "https://discord.com/invite/alephzero",
+                "type": "discord"
+            },
+            {
+                "url": "https://alephzero.subscan.io",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.facebook.com/AlephZeroFoundation",
+                "type": "facebook"
+            },
+            {
+                "url": "https://www.facebook.com/AlephZeroFoundation",
+                "type": "message_board"
+            },
+            {
+                "url": "https://github.com/aleph-zero-foundation",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/AlephZeroAnnouncements",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/Aleph__Zero",
+                "type": "twitter"
+            },
+            {
+                "url": "https://alephzero.org",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2022-02-04T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "deso-decentralized-social",
+        "name": "Decentralized Social",
+        "symbol": "DESO",
+        "rank": 175,
+        "is_active": true,
+        "exchanges": {
+            "ascendex": {
+                "name": "AscendEX (BitMax)"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "coinbase": {
+                "name": "Coinbase"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "jubi": {
+                "name": "Jubi"
+            }
+        },
+        "market_cap": 349189710,
+        "volume": 2821271,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/deso-decentralized-social/logo.png",
+        "description": "",
+        "development_status": "",
+        "links": {
+            "explorer": null,
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/bitclout"
+            ],
+            "website": [
+                "https://bitclout.com"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://docs.bitclout.com/the-vision",
+                "type": "announcement"
+            },
+            {
+                "url": "https://github.com/bitclout",
+                "type": "source_code"
+            },
+            {
+                "url": "https://bitclout.com",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-09-13T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "xch-chia-",
+        "name": "Chia",
+        "symbol": "XCH",
+        "rank": 183,
+        "is_active": true,
+        "exchanges": {
+            "bitmart": {
+                "name": "BitMart"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "coinstore": {
+                "name": "Coinstore"
+            },
+            "coinw": {
+                "name": "CoinW"
+            },
+            "cryptocom-exchange": {
+                "name": "Crypto.com Exchange"
+            },
+            "deepcoin": {
+                "name": "Deepcoin"
+            },
+            "digifinex": {
+                "name": "DigiFinex"
+            },
+            "gateio": {
+                "name": "Gate.io"
+            },
+            "hitbtc": {
+                "name": "HitBTC"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "indodax": {
+                "name": "Indodax"
+            },
+            "jubi": {
+                "name": "Jubi"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "lbank": {
+                "name": "Lbank"
+            },
+            "mexc": {
+                "name": "MEXC"
+            },
+            "okx": {
+                "name": "OKX"
+            },
+            "pionex": {
+                "name": "Pionex"
+            },
+            "trubit-pro": {
+                "name": "TruBit Pro"
+            },
+            "xt": {
+                "name": "XT"
+            }
+        },
+        "market_cap": 345390025,
+        "volume": 103749946,
+        "type": "coin",
+        "logo": "https://static.coinpaprika.com/coin/xch-chia-/logo.png",
+        "description": "",
+        "development_status": "On-going development",
+        "links": {
+            "explorer": [
+                "https://www.chiaexplorer.com/",
+                "https://xchscan.com/"
+            ],
+            "facebook": null,
+            "reddit": null,
+            "source_code": [
+                "https://github.com/Chia-Network/chia-blockchain"
+            ],
+            "website": [
+                "https://www.chia.net/"
+            ],
+            "youtube": null
+        },
+        "links_extended": [
+            {
+                "url": "https://www.chiaexplorer.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://xchscan.com/",
+                "type": "explorer"
+            },
+            {
+                "url": "https://medium.com/@chia.net",
+                "type": "medium"
+            },
+            {
+                "url": "https://github.com/Chia-Network/chia-blockchain",
+                "type": "source_code"
+            },
+            {
+                "url": "https://twitter.com/chia_project",
+                "type": "twitter"
+            },
+            {
+                "url": "https://www.chia.net/",
+                "type": "website"
+            }
+        ],
+        "first_data_at": "2021-05-08T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    },
+    {
+        "id": "trac-origintrail",
+        "name": "OriginTrail",
+        "symbol": "TRAC",
+        "rank": 184,
+        "is_active": true,
+        "exchanges": {
+            "bitmart": {
+                "name": "BitMart"
+            },
+            "bitrue": {
+                "name": "Bitrue"
+            },
+            "coinbase": {
+                "name": "Coinbase"
+            },
+            "coinex": {
+                "name": "CoinEx"
+            },
+            "coinstore": {
+                "name": "Coinstore"
+            },
+            "cryptocom-exchange": {
+                "name": "Crypto.com Exchange"
+            },
+            "cryptology": {
+                "name": "Cryptology"
+            },
+            "hitbtc": {
+                "name": "HitBTC"
+            },
+            "htx": {
+                "name": "HTX"
+            },
+            "jubi": {
+                "name": "Jubi"
+            },
+            "kucoin": {
+                "name": "Kucoin"
+            },
+            "uniswap-v2": {
+                "name": "Uniswap V2"
+            },
+            "uniswap-v3": {
+                "name": "Uniswap V3"
+            }
+        },
+        "market_cap": 351784308,
+        "volume": 3469064,
+        "type": "token",
+        "logo": "https://static.coinpaprika.com/coin/trac-origintrail/logo.png",
+        "description": "OriginTrail enables seamless data sharing along any supply chain. Decentralized, blockchain-supported platform ensures trust, transparency, and security. It helps companies exchange relevant data seamlessly and in a secure way to build accountability, protect their brands and increase efficiencies.",
+        "development_status": "Prototype / MVP",
+        "links": {
+            "explorer": [
+                "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+                "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+            ],
+            "facebook": [
+                "https://www.facebook.com/origintrail/"
+            ],
+            "reddit": [
+                "https://www.reddit.com/r/origintrail"
+            ],
+            "source_code": [
+                "https://github.com/OriginTrail/ot-node"
+            ],
+            "website": [
+                "https://origintrail.io/"
+            ],
+            "youtube": [
+                "https://www.youtube.com/watch?v=9DxMiCxRUU0"
+            ]
+        },
+        "links_extended": [
+            {
+                "url": "https://bitcointalk.org/index.php?topic=2436140.0",
+                "type": "announcement"
+            },
+            {
+                "url": "https://medium.com/origintrail",
+                "type": "blog"
+            },
+            {
+                "url": "https://medium.com/origintrail/origintrail-community-reward-program-get-tokens-of-appreciation-9eca812a770c",
+                "type": "blog"
+            },
+            {
+                "url": "https://discordapp.com/invite/wf3mJtp",
+                "type": "discord"
+            },
+            {
+                "url": "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+                "type": "explorer"
+            },
+            {
+                "url": "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+                "type": "explorer"
+            },
+            {
+                "url": "https://www.facebook.com/origintrail/",
+                "type": "facebook"
+            },
+            {
+                "url": "https://www.reddit.com/r/origintrail",
+                "type": "reddit"
+            },
+            {
+                "url": "https://github.com/OriginTrail/ot-node",
+                "type": "source_code"
+            },
+            {
+                "url": "https://t.me/origintrail",
+                "type": "telegram"
+            },
+            {
+                "url": "https://twitter.com/origin_trail",
+                "type": "twitter"
+            },
+            {
+                "url": "https://origintrail.io/",
+                "type": "website"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=9DxMiCxRUU0",
+                "type": "youtube"
+            }
+        ],
+        "first_data_at": "2018-01-25T00:00:00Z",
+        "last_data_at": "2024-02-20T16:54:00Z"
+    }
+]

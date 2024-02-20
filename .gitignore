@@ -1,0 +1,6 @@
+# Folders to ignore
+bin/
+
+# Files to ignore
+internal/config/cli.go
+
