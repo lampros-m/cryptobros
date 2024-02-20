@@ -48,16 +48,23 @@ func (o *CoinsCreator) CreateTodayCoins() error {
 		return errors.New("error CreateTodayCoins cannot paprika.GetAllActiveExchanges:" + err.Error())
 	}
 
-	// code for testing and debugging
+	// code for testing on less coins when debug mode is on
+	//
+	// Example 1
+	//==========
+	// paprikaActiveCoins = paprikaActiveCoins[:200]
+	//
+	// Example 2
+	//==========
+	// testCoins := paprika.Coins{}
+	// for _, coin := range paprikaActiveCoins {
+	// 	if coin.ID == "ml-mintlayer" || coin.ID == "btc-bitcoin" {
+	// 		testCoins = append(testCoins, coin)
+	// 	}
+	// }
+	// paprikaActiveCoins = testCoins
+	//
 	if o.Config.DebugMode {
-		// testCoins := paprika.Coins{}
-		// for _, coin := range paprikaActiveCoins {
-		// 	if coin.ID == "ml-mintlayer" || coin.ID == "btc-bitcoin" {
-		// 		testCoins = append(testCoins, coin)
-		// 	}
-		// }
-		// paprikaActiveCoins = testCoins
-		paprikaActiveCoins = paprikaActiveCoins[:200]
 	}
 
 	// encance market cap volume
