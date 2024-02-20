@@ -14,7 +14,12 @@ import (
 var (
 	EndpointIfconfig = "https://ifconfig.co/json"
 	SleepTime        = 10
-	HTTPClient       = &http.Client{Timeout: 30 * time.Second}
+	HTTPClient       = &http.Client{
+		Timeout: 40 * time.Second,
+		Transport: &http.Transport{
+			TLSHandshakeTimeout: 20 * time.Second,
+		},
+	}
 )
 
 // TODO : Find another way to retrieve new IPv6 - This is almost impossible to work in server environment
