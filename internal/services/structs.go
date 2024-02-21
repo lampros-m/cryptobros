@@ -9,6 +9,7 @@ type Query struct {
 	ExchangesExcluded      QueryExchanges // Exchanges to be excluded - Max number of exchanges permitted
 	YearThreshold          string         // Year threshold of project launch
 	SourceCode             bool           // Source code must be available
+	GithubReposThreshold   int            // Github repos must be more than this number
 }
 
 type QueryExchanges struct {
