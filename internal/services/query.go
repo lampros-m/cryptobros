@@ -1,16 +1,26 @@
 package services
 
 import (
+	"encoding/json"
 	"errors"
+	"fmt"
+	"io/ioutil"
 	"log"
+	"net/http"
 	"repositories/cryptobros/internal/config"
 	"repositories/cryptobros/internal/repositories/domain"
+	"strings"
 	"time"
 )
 
 var (
 	QueryYearThresholdDateFormat = "2006"
 )
+
+type Repository struct {
+	Name      string    `json:"name"`
+	UpdatedAt time.Time `json:"updated_at"`
+}
 
 type CoinsQuerierInterface interface {
 	QueryCoins(query Query) error
@@ -146,5 +156,64 @@ func isSourceCodeValid(coin *domain.Coin, query Query) bool {
 		return false
 	}
 
+	//apiUrl := convertToAPIUrl(coin.Links.SourceCode[0])
+	//
+	//if apiUrl == "" {
+	//	return false
+	//}
+	//
+	//repos, err := fetchRepositories(apiUrl)
+	//
+	//if err != nil {
+	//	fmt.Println("error fetching repos from api url: %s", apiUrl)
+	//	return false
+	//}
+	//
+	//if len(repos) < query.GithubReposThreshold {
+	//	return false
+	//}
+
 	return true
+}
+
+func convertToAPIUrl(url string) string {
+	// Removing the protocol and get the rest (e.g., github.com/mintlayer or github.com/opentensor/BitTensor)
+	parts := strings.SplitN(url, "github.com/", 2)
+
+	// Further split to isolate organization/user name
+	if len(parts) < 2 {
+		return "Invalid GitHub URL"
+	}
+
+	orgUserParts := strings.SplitN(parts[1], "/", 2)
+
+	// Construct the API URL
+	apiUrl := fmt.Sprintf("https://api.github.com/orgs/%s/repos", orgUserParts[0])
+
+	return apiUrl
+}
+
+func fetchRepositories(apiURL string) ([]Repository, error) {
+	resp, err := http.Get(apiURL)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status code: %d", resp.StatusCode)
+	}
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	var repos []Repository
+	err = json.Unmarshal(body, &repos)
+	if err != nil {
+		return nil, err
+	}
+
+	return repos, nil
 }

@@ -34,18 +34,19 @@ var (
 	Query = services.Query{
 		DateOfData:             "20240221",
 		MarketCapThresholdDown: 0,
-		MarketCapThresholdUp:   1000000000000,
-		VolumeThresholdDown:    100000,
+		MarketCapThresholdUp:   0,
+		VolumeThresholdDown:    500000,
 		ExchangesIncluded: services.QueryExchanges{
 			ExchangesIDs: []string{"kucoin", "bybit", "bybit-spot", "bitfinex", "okx", "gateio", "bitstamp", "bitmart", "htx", "mexc", "bitget", "bithumb", "gemini"},
 			Number:       3,
 		},
 		ExchangesExcluded: services.QueryExchanges{
-			ExchangesIDs: []string{"binance", "coinbase", "kraken", "upbit", "cryptocom-exchange"},
+			ExchangesIDs: []string{"coinbase"}, //, "kraken", "upbit", "cryptocom-exchange"},
 			Number:       0,
 		},
-		YearThreshold: "2022",
-		SourceCode:    true,
+		YearThreshold:        "2023",
+		SourceCode:           true,
+		GithubReposThreshold: 10,
 	}
 )
 
