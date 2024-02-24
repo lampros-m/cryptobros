@@ -62,7 +62,7 @@ func RenewIPv6() error {
 
 // TODO : It would be a good idea to retrieve the IPv6 from internal network manager - not from an external third party
 func GetIPv6() (string, error) {
-	body, err := GetRequest(EndpointIfconfig)
+	body, _, err := GetRequest(EndpointIfconfig)
 	if err != nil {
 		return "", errors.New("error getIPv6 cannot getRequest: " + err.Error())
 	}
@@ -81,18 +81,20 @@ func GetIPv6() (string, error) {
 	return ipv6, nil
 }
 
-func GetRequest(url string) ([]byte, error) {
+func GetRequest(url string) ([]byte, int, error) {
 	HTTPClient.CloseIdleConnections()
 	resp, err := HTTPClient.Get(url)
 	if err != nil {
-		return []byte{}, errors.New("error GetRequest on Get:" + err.Error())
+		return []byte{}, 0, errors.New("error GetRequest on Get:" + err.Error())
 	}
 	defer resp.Body.Close()
 
+	statusCode := resp.StatusCode
+
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return []byte{}, errors.New("error GetRequest on ReadAll:" + err.Error())
+		return []byte{}, 0, errors.New("error GetRequest on ReadAll:" + err.Error())
 	}
 
-	return body, nil
+	return body, statusCode, nil
 }

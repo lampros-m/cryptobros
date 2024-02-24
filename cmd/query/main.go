@@ -20,6 +20,7 @@ var (
 	// 	ExchangesExcluded: 		Exchanges to be excluded - Max number of exchanges permitted
 	// 	YearThreshold: 			Year threshold of project's data
 	// 	SourceCode: 			Source code must be available
+	// 	GithubReposThreshold	Github repos must be at least this number
 	//
 	// Query Example
 	// =============

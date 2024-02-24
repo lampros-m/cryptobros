@@ -2,6 +2,7 @@ package services
 
 import (
 	"repositories/cryptobros/internal/repositories/domain"
+	"repositories/cryptobros/internal/repositories/github"
 	"repositories/cryptobros/internal/repositories/paprika"
 )
 
@@ -52,4 +53,20 @@ func mapPaprikaCoinsAndExchangesToDomainCoins(paprikaCoins paprika.Coins, paprik
 	}
 
 	return domainCoins
+}
+
+func mapGithubRepositoriesToDomainRepositories(githubRepositories github.Repositories) domain.GitHubRepositories {
+	domainRepositories := domain.GitHubRepositories{}
+
+	for _, githubRepository := range githubRepositories {
+		domainRepository := domain.GitHubRepository{}
+
+		domainRepository.Name = githubRepository.Name
+		domainRepository.UpdatedAt = githubRepository.UpdatedAt
+		domainRepository.Stars = githubRepository.Stars
+
+		domainRepositories = append(domainRepositories, domainRepository)
+	}
+
+	return domainRepositories
 }

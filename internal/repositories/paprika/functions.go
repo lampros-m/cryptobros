@@ -16,7 +16,7 @@ var (
 )
 
 func GetAllActiveCoins() (Coins, error) {
-	body, err := networking.GetRequest(PaprikaEndpointListCoins)
+	body, _, err := networking.GetRequest(PaprikaEndpointListCoins)
 	if err != nil {
 		return Coins{}, errors.New("error GetAllActiveCoins cannot GetRequest: " + err.Error())
 	}
@@ -38,7 +38,7 @@ func GetAllActiveCoins() (Coins, error) {
 }
 
 func GetAllActiveExchanges() (Exchanges, error) {
-	body, err := networking.GetRequest(PaprikaEndpointListExhanges)
+	body, _, err := networking.GetRequest(PaprikaEndpointListExhanges)
 	if err != nil {
 		return Exchanges{}, errors.New("error GetAllActiveExchanges cannot GetRequest: " + err.Error())
 	}
@@ -61,7 +61,7 @@ func GetAllActiveExchanges() (Exchanges, error) {
 
 func GetMarketCapAndVolumeByCoinID(coinID string) (MarketCapVolume, error) {
 	url := fmt.Sprintf(PaprikaEndpointOHLC, coinID)
-	body, err := networking.GetRequest(url)
+	body, _, err := networking.GetRequest(url)
 	if err != nil {
 		return MarketCapVolume{}, errors.New("error GetMarketCapAndVolumeByCoinID cannot GetRequest:" + err.Error())
 	}
@@ -94,7 +94,7 @@ func GetMarketCapAndVolumeByCoinID(coinID string) (MarketCapVolume, error) {
 
 func GetExchangesByCoinID(coinID string) (ExchangesIDs, error) {
 	url := fmt.Sprintf(PaprikaEndpointExchangesByCoinID, coinID)
-	body, err := networking.GetRequest(url)
+	body, _, err := networking.GetRequest(url)
 	if err != nil {
 		return ExchangesIDs{}, errors.New("error GetExchangesByCoinID cannot GetRequest:" + err.Error())
 	}
@@ -127,7 +127,7 @@ func GetExchangesByCoinID(coinID string) (ExchangesIDs, error) {
 
 func GetExtendedInfoByCoinID(coinID string) (ExtendedInfo, error) {
 	url := fmt.Sprintf(PaprikaEndpointExtendedInfoByCoindID, coinID)
-	body, err := networking.GetRequest(url)
+	body, _, err := networking.GetRequest(url)
 	if err != nil {
 		return ExtendedInfo{}, errors.New("error GetExtendedInfoByCoinID cannot GetRequest: " + err.Error())
 	}

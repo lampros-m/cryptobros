@@ -21,6 +21,7 @@ type Coin struct {
 	LinksExtended     ExtendedLinks `json:"links_extended"`
 	FirstDataAt       time.Time     `json:"first_data_at"`
 	LastDataAt        time.Time     `json:"last_data_at"`
+	GitHubRepositories
 }
 
 type ExchanngeInfo struct {
@@ -44,3 +45,11 @@ type ExtendedLink struct {
 	URL  string `json:"url"`
 	Type string `json:"type"`
 }
+
+type GitHubRepository struct {
+	Name      string    `json:"name"`
+	UpdatedAt time.Time `json:"updated_at"`
+	Stars     int32     `json:"stargazers_count"`
+}
+
+type GitHubRepositories []GitHubRepository
